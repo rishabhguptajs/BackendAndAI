@@ -8,6 +8,20 @@
       "when": 1772817118602,
       "tag": "0000_dashing_fenris",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1772818089658,
+      "tag": "0001_colossal_meltdown",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1772819625628,
+      "tag": "0002_square_black_crow",
+      "breakpoints": true
     }
   ]
 }
